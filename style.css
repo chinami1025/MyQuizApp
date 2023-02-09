@@ -33,5 +33,5 @@ li {
 }
 
 .wrong::after {
-  content: " - 不正解！";
+  content: " - 不正解...";
 }
